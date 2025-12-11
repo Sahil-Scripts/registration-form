@@ -35,7 +35,7 @@ try {
 
     echo "<h1 style='color:green'>✅ SETUP COMPLETE</h1>";
     echo "<p>Your database is ready. You can now use the form.</p>";
-    echo "<p><a href='index.html' style='background: #007bff; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px;'>Go to Registration Form</a></p>";
+    echo "<p><a href='index.php' style='background: #007bff; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px;'>Go to Registration Form</a></p>";
 
 } catch (PDOException $e) {
     echo "<h1 style='color:red'>❌ SETUP FAILED</h1>";

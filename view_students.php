@@ -18,7 +18,7 @@
 </head>
 <body>
 
-    <a href="index.html" class="back-link">← Back to Registration Form</a>
+    <a href="index.php" class="back-link">← Back to Registration Form</a>
     <h1>Registered Students</h1>
 
     <?php
