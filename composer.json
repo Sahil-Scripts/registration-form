@@ -1,0 +1,5 @@
+{
+    "name": "user/registration-form",
+    "description": "Simple PHP Registration Form",
+    "require": {}
+}
